@@ -1,0 +1,26 @@
+.s{
+
+display:flex;
+justify-content: flex-start
+
+}
+.g{
+display:flex;
+flex-direction: row;
+
+
+}
+.q{
+
+background-color: aqua;
+
+}
+.b{
+
+    background-color: darkgoldenrod ;
+    
+}
+.d{
+    display:flex;
+    justify-content: flex-start
+}
